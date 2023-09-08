@@ -6,7 +6,7 @@
 ![status](https://badge.stateful.com/animikhaich/status.svg)
 ![status](https://badge.stateful.com/animikhaich/dnd.svg)
 
-👋 Hi there! I'm Animikh and I'm a Machine Learning Engineer, who loves to read ancient history and connect dots to better understand today.
+👋 Hi there! I'm Sumanta and I'm a Machine Learning Engineer, who loves to read ancient history and connect dots to better understand today.
 
 I am currently working at PwC as a Data Scientist. 
 Before this, I was working at Flutura Business Solutions Pvt. Ltd as a Data Scientist.
