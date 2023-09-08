@@ -13,7 +13,7 @@ Before this, I was working at Flutura Business Solutions Pvt. Ltd as a Data Scie
 
 I ❤️ to build  Multi-Modal Self-Supervised Learning solutions.
 
-I'm always open to new opportunities and a nice chat ☕. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sumanta97/) or [animikhaich@gmail.com](mailto:sumanta.skm97@gmail.com).
+I'm always open to new opportunities and a nice chat ☕. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sumanta97/) or [sumanta.skm97@gmail.com](mailto:sumanta.skm97@gmail.com).
 
 # 💻 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
